@@ -20,4 +20,4 @@ Ensure you have the following prerequisites installed before running the code:
 
 ## Dataset
 
-Dataset from Kaggle: https://drive.google.com/file/d/1RCHGfn9JJyyReAh8PIIoF8Ch0H3miP0u/view?usp=sharing
+Dataset for modeling: https://drive.google.com/file/d/1RCHGfn9JJyyReAh8PIIoF8Ch0H3miP0u/view?usp=sharing
