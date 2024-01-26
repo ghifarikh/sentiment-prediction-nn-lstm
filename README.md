@@ -1,4 +1,4 @@
-# Deep Learning Modeling and Prediction with Swagger UI
+# Sentiment Analysis Prediction Using Neural Network and LSTM
 
 This repository contains an implementation showcasing deep learning modeling and prediction capabilities using Swagger UI.
 
